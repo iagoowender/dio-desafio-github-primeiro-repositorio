@@ -26,3 +26,6 @@ Criar Commit: git commit
 Ver Status: git status
 
 ver pastas ocultas no bash: ls -a
+
+Enviar commits e alterções da pasta local, para dentro do GitHub
+git push origin main  (esse main pode as vezes estar como master, vai depender de como aparece para você no BASH)
