@@ -1,2 +1,5 @@
-# dio-desafio-github-primeiro-repositorio
-Primeiro desafio de criação do primeiro repositório - Bootcamp DIO - Banco Pan
+# Desafio de Projeto sobre GIT/GITHUB  da DIO - Banco Pan
+Repositório criado para o desafio de projeto GIT/GITHUB - Bootcamp DIO - Banco Pan
+
+## Links Úteis
+[Sintaxer Básica Markdown](https://www.markdownguide.org/basic-syntax/)
