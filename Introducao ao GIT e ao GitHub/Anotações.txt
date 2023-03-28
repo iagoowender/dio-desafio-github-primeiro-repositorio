@@ -1,0 +1,28 @@
+Anotações
+Lista de Comandos e interações no GITBASH
+
+Listar = dir
+Trocar Diretório = cd / cd .. - volta uma pasta
+Limpar tela = CLS ou CTRL+l
+Mostrar o Caminho - pwd
+Criar Pasta = mkdir
+Criar Arquivo = echo > e o nome do arquivo
+Deletar apenas arquivos = del
+Deletar todo o diretorio = rmdir
+
+Comando de criar chave ssh:
+ssh-keygen -t ed25510 -C "email cadastrado"
+
+Clonar diretório direto do github.com
+git clone chave ssh ou https
+
+Comando para iniciar uma chave ssh
+eval $(ssh-agent -s)
+
+Comandos GIT Commits
+Iniciar repositório: git init
+Mover Arquivos: git add (-a e . adicionam tudo)
+Criar Commit: git commit
+Ver Status: git status
+
+ver pastas ocultas no bash: ls -a
