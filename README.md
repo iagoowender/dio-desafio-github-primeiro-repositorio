@@ -2,4 +2,4 @@
 Repositório criado para o desafio de projeto GIT/GITHUB - Bootcamp DIO - Banco Pan
 
 ## Links Úteis
-[Sintaxer Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
